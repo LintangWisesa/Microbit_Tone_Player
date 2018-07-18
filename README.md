@@ -23,7 +23,7 @@ To build this project, you need the following items:
 
 - Connect your speaker's audio jack to Micro:bit as the following picture:
 
-    ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+    ![schematics](https://raw.githubusercontent.com/LintangWisesa/Microbit_Tone_Player/master/Schematics.png)
 
 #
 
@@ -90,7 +90,7 @@ To build this project, you need the following items:
 
   - If using __Blocks__, arrange the code like the following picture:
 
-      ![blocks](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+      ![blocks](https://raw.githubusercontent.com/LintangWisesa/Microbit_Tone_Player/master/Blocks.png)
 
 - After that, click __Download__ button to get a __.hex__ file for your Micro:bit board. Simply connect your Micro:bit to your PC/laptop, then paste the __.hex__ file into it.
 
